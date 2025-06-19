@@ -288,6 +288,13 @@ mqttx sub -t 'device/$SERIAL_NUMBER/report' -u bblp -P $LAN_ACCESS_CODE --mqtt-v
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/EmberLightVFX">
+                    <img src="https://avatars.githubusercontent.com/u/49758407?v=4" width="100;" alt="EmberLightVFX"/>
+                    <br />
+                    <sub><b>Ember Light</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Tnthr">
                     <img src="https://avatars.githubusercontent.com/u/131608369?v=4" width="100;" alt="Tnthr"/>
                     <br />
@@ -308,6 +315,8 @@ mqttx sub -t 'device/$SERIAL_NUMBER/report' -u bblp -P $LAN_ACCESS_CODE --mqtt-v
                     <sub><b>Thijs Triemstra</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/thomasjpatterson">
                     <img src="https://avatars.githubusercontent.com/u/8883279?v=4" width="100;" alt="thomasjpatterson"/>
